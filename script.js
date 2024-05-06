@@ -1,4 +1,4 @@
-var radius = 300;
+var radius = 280;
 var dtr = Math.PI / 180;
 var d = 400;
 
@@ -7,7 +7,7 @@ var active = false;
 var lasta = 1;
 var lastb = 1;
 var distr = true;
-var tspeed = 1;
+var tspeed = 2;
 var size = 100;
 
 var mouseX = 0;
